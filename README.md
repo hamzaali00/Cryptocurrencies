@@ -8,7 +8,8 @@ Then visualization were created using hvplot.
 ## Results
 
 Once the PCA components were created they were used to fit the KMeans. 
-This elbow curve was created, showing that 4 dimensions is most optimal
+This elbow curve was created, showing that 4 dimensions is most optimal.
+
 ![Elbow Curve](Images/elbow_curve.png)
 
 Once the KMeans model was initialized, fit, and clusters were predicted, this 3D visualization was created to represent the crypto groupings.
